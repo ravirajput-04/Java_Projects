@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+.bg-custom{
+background-image: linear-gradient(to right, #f90086, #ff4441, #ff8f00, #c6ce00, #00ff21);
+}
+
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+
+.navbar-custom .nav-item .nav-link:hover{
+	background: white;
+	color:black;
+	border-radius: 20px;
+}
+
+.div-color{
+	background-image: linear-gradient(to right top, #f97d00, #ff9d00, #ffbe00, #ffde00, #ffff00);
+	height: 500px;
+}
